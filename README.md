@@ -1,6 +1,6 @@
 # Yosemite-styled ICQ icon
 
-A more modern icon for ICQ client on Mac.
+A more modern icon for the [ICQ](https://itunes.apple.com/us/app/icq/id665877304?mt=12) client on Mac.
 ![dock screenshot](http://kpwk.pw/box/Screen%20Shot%202015-07-24%20at%2011.33.43-4yxDl3NxGh.png)
 
 ## Installation
